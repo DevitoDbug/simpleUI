@@ -7,5 +7,5 @@ Description of what it mean to be simple and cool.
 3. CSS
 
 ## Screenshots
-![screnshot1](#)
-![screnshot2](#)
+![screnshot1](https://github.com/DevitoDbug/simpleUI/blob/master/screenshots/Screenshot-UI.jpg?raw=true)
+![screnshot2](https://github.com/DevitoDbug/simpleUI/blob/master/screenshots/Screenshot2%20(1).jpg?raw=true)
